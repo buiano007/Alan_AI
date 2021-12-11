@@ -1,0 +1,16 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background:linear-gradient(to right, rgb(46, 4, 52), rgb(10, 34, 107));
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
