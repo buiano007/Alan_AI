@@ -7,7 +7,7 @@ import logo from './images/Logo.png';
 import { NewsCards, Modal } from './components';
 import useStyles from './styles';
 
-const alanKey= '91a6422b5077eff551b35552d90c99952e956eca572e1d8b807a3e2338fdd0dc/stage'
+const alanKey= 'YOUR API KEY'
 
 const App = () => {
     const [activeArticle, setActiveArticle] = useState(0);
