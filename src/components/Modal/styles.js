@@ -12,6 +12,7 @@ export default makeStyles((theme) => ({
     outline: 'none',
     overflow: 'scroll',
     height: '60%',
+    zIndex: '999',
   },
   infoContainer: {
     display: 'flex',
